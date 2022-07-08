@@ -1,0 +1,5 @@
+homepage: "https://christoph88.github.io/"
+documentation: "https://github.com/christoph88/gtm-get-value-from-object-array-and-join-as-string/blob/main/README.md"
+versions:
+  - sha: 5f02a788b90ae804f86b04aa24af8937e567874a
+    changeNotes: Initial release.
